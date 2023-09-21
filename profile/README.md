@@ -1,12 +1,10 @@
-## Hi there 👋
+## 每日核数据 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+**这是一个非常强大的 Team:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 目前拥有四名杰出成员，分别有前端架构师、后端架构师、数据分析师、和顶级的产品经理🧑‍💼
+🌈 目前还没有开源的计划与安排
+👩‍💻 项目还在制作中，敬请期待
+🍿 我们都爱吃麦当劳🍔！
+🧙 我们的技术栈：NodeJs、NestJs、React、NextJs、Vue、原生微信小程序
