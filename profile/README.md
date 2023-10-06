@@ -6,4 +6,4 @@
 - 🌈 目前还没有开源的计划与安排
 - 👩‍💻 项目还在制作中，敬请期待
 - 🍿 我们都爱吃麦当劳🍔！
-- 🧙 我们的技术栈：iOS、Android、NodeJs、NestJs、React、NextJs、Vue、原生微信小程序
+- 🧙 我们的技术栈：iOS、Android、NodeJs、NestJs、React、NextJs、Vue、原生微信小程序、Python
